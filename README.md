@@ -65,15 +65,15 @@ while True:
     
     print('Done sending')
     conn.send('Thank you for connecting'.encode())
+    conn.send('I am Brindha'.encode())
     conn.close()
 ```
 ## OUPUT
 
-<img width="1170" height="431" alt="Screenshot 2026-05-19 144203" src="https://github.com/user-attachments/assets/46c83b32-0b4b-45b5-b4e3-5c49f6dc60c2" />
 
+<img width="1911" height="592" alt="Screenshot 2026-05-19 162301" src="https://github.com/user-attachments/assets/fe8c548e-a26a-4b37-9273-3a7da58448c7" />
 
-<img width="1862" height="628" alt="Screenshot 2026-05-19 144215" src="https://github.com/user-attachments/assets/3cd1ba9a-9b1a-4c51-afd5-1cd98b47800f" />
-
+<img width="1141" height="436" alt="Screenshot 2026-05-19 162332" src="https://github.com/user-attachments/assets/fc2ce715-a5fa-46af-b5ad-e45702f1ba44" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
